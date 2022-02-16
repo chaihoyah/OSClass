@@ -1,0 +1,365 @@
+Child No.0, CPU Time:63, IO Time:6 
+Child No.1, CPU Time:77, IO Time:5 
+Child No.2, CPU Time:73, IO Time:5 
+Child No.3, CPU Time:66, IO Time:2 
+Child No.4, CPU Time:69, IO Time:1 
+Child No.5, CPU Time:62, IO Time:7 
+Child No.6, CPU Time:70, IO Time:9 
+Child No.7, CPU Time:63, IO Time:6 
+Child No.8, CPU Time:60, IO Time:6 
+Child No.9, CPU Time:72, IO Time:6 
+Time: 1, Child No.0 gets CPU time, Remaining:61, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 2, Child No.1 gets CPU time, Remaining:75, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 3, Child No.2 gets CPU time, Remaining:71, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 4, Child No.3 gets CPU time, Remaining:64, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 5, Child No.4 gets CPU time, Remaining:67, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 6, Child No.5 gets CPU time, Remaining:60, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 7, Child No.6 gets CPU time, Remaining:68, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 8, Child No.7 gets CPU time, Remaining:61, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 9, Child No.8 gets CPU time, Remaining:58, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 10, Child No.9 gets CPU time, Remaining:70, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 11, Child No.0 gets CPU time, Remaining:59, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 12, Child No.1 gets CPU time, Remaining:73, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 13, Child No.2 gets CPU time, Remaining:69, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 14, Child No.3 gets CPU time, Remaining:62, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 15, Child No.4 gets CPU time, Remaining:65, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 16, Child No.5 gets CPU time, Remaining:58, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 17, Child No.6 gets CPU time, Remaining:66, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 18, Child No.7 gets CPU time, Remaining:59, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 19, Child No.8 gets CPU time, Remaining:56, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 20, Child No.9 gets CPU time, Remaining:68, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 21, Child No.0 gets CPU time, Remaining:57, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 22, Child No.1 gets CPU time, Remaining:71, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 23, Child No.2 gets CPU time, Remaining:67, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 24, Child No.3 gets CPU time, Remaining:60, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 25, Child No.4 gets CPU time, Remaining:63, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 26, Child No.5 gets CPU time, Remaining:56, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 27, Child No.6 gets CPU time, Remaining:64, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 28, Child No.7 gets CPU time, Remaining:57, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 29, Child No.8 gets CPU time, Remaining:54, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 30, Child No.9 gets CPU time, Remaining:66, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 31, Child No.0 gets CPU time, Remaining:55, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 32, Child No.1 gets CPU time, Remaining:69, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 33, Child No.2 gets CPU time, Remaining:65, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 34, Child No.3 gets CPU time, Remaining:58, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 35, Child No.4 gets CPU time, Remaining:61, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 36, Child No.5 gets CPU time, Remaining:54, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 37, Child No.6 gets CPU time, Remaining:62, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 38, Child No.7 gets CPU time, Remaining:55, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 39, Child No.8 gets CPU time, Remaining:52, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 40, Child No.9 gets CPU time, Remaining:64, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 41, Child No.0 gets CPU time, Remaining:53, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 42, Child No.1 gets CPU time, Remaining:67, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 43, Child No.2 gets CPU time, Remaining:63, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 44, Child No.3 gets CPU time, Remaining:56, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 45, Child No.4 gets CPU time, Remaining:59, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 46, Child No.5 gets CPU time, Remaining:52, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 47, Child No.6 gets CPU time, Remaining:60, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 48, Child No.7 gets CPU time, Remaining:53, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 49, Child No.8 gets CPU time, Remaining:50, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 50, Child No.9 gets CPU time, Remaining:62, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 51, Child No.0 gets CPU time, Remaining:51, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 52, Child No.1 gets CPU time, Remaining:65, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 53, Child No.2 gets CPU time, Remaining:61, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 54, Child No.3 gets CPU time, Remaining:54, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 55, Child No.4 gets CPU time, Remaining:57, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 56, Child No.5 gets CPU time, Remaining:50, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 57, Child No.6 gets CPU time, Remaining:58, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 58, Child No.7 gets CPU time, Remaining:51, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 59, Child No.8 gets CPU time, Remaining:48, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 60, Child No.9 gets CPU time, Remaining:60, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 61, Child No.0 gets CPU time, Remaining:49, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 62, Child No.1 gets CPU time, Remaining:63, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 63, Child No.2 gets CPU time, Remaining:59, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 64, Child No.3 gets CPU time, Remaining:52, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 65, Child No.4 gets CPU time, Remaining:55, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 66, Child No.5 gets CPU time, Remaining:48, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 67, Child No.6 gets CPU time, Remaining:56, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 68, Child No.7 gets CPU time, Remaining:49, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 69, Child No.8 gets CPU time, Remaining:46, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 70, Child No.9 gets CPU time, Remaining:58, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 71, Child No.0 gets CPU time, Remaining:47, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 72, Child No.1 gets CPU time, Remaining:61, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 73, Child No.2 gets CPU time, Remaining:57, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 74, Child No.3 gets CPU time, Remaining:50, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 75, Child No.4 gets CPU time, Remaining:53, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 76, Child No.5 gets CPU time, Remaining:46, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 77, Child No.6 gets CPU time, Remaining:54, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 78, Child No.7 gets CPU time, Remaining:47, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 79, Child No.8 gets CPU time, Remaining:44, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 80, Child No.9 gets CPU time, Remaining:56, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 81, Child No.0 gets CPU time, Remaining:45, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 82, Child No.1 gets CPU time, Remaining:59, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 83, Child No.2 gets CPU time, Remaining:55, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 84, Child No.3 gets CPU time, Remaining:48, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 85, Child No.4 gets CPU time, Remaining:51, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 86, Child No.5 gets CPU time, Remaining:44, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 87, Child No.6 gets CPU time, Remaining:52, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 88, Child No.7 gets CPU time, Remaining:45, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 89, Child No.8 gets CPU time, Remaining:42, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 90, Child No.9 gets CPU time, Remaining:54, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 91, Child No.0 gets CPU time, Remaining:43, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 92, Child No.1 gets CPU time, Remaining:57, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 93, Child No.2 gets CPU time, Remaining:53, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 94, Child No.3 gets CPU time, Remaining:46, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 95, Child No.4 gets CPU time, Remaining:49, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 96, Child No.5 gets CPU time, Remaining:42, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 97, Child No.6 gets CPU time, Remaining:50, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 98, Child No.7 gets CPU time, Remaining:43, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 99, Child No.8 gets CPU time, Remaining:40, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 100, Child No.9 gets CPU time, Remaining:52, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 101, Child No.0 gets CPU time, Remaining:41, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 102, Child No.1 gets CPU time, Remaining:55, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 103, Child No.2 gets CPU time, Remaining:51, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 104, Child No.3 gets CPU time, Remaining:44, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 105, Child No.4 gets CPU time, Remaining:47, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 106, Child No.5 gets CPU time, Remaining:40, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 107, Child No.6 gets CPU time, Remaining:48, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 108, Child No.7 gets CPU time, Remaining:41, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 109, Child No.8 gets CPU time, Remaining:38, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 110, Child No.9 gets CPU time, Remaining:50, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 111, Child No.0 gets CPU time, Remaining:39, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 112, Child No.1 gets CPU time, Remaining:53, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 113, Child No.2 gets CPU time, Remaining:49, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 114, Child No.3 gets CPU time, Remaining:42, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 115, Child No.4 gets CPU time, Remaining:45, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 116, Child No.5 gets CPU time, Remaining:38, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 117, Child No.6 gets CPU time, Remaining:46, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 118, Child No.7 gets CPU time, Remaining:39, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 119, Child No.8 gets CPU time, Remaining:36, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 120, Child No.9 gets CPU time, Remaining:48, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 121, Child No.0 gets CPU time, Remaining:37, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 122, Child No.1 gets CPU time, Remaining:51, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 123, Child No.2 gets CPU time, Remaining:47, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 124, Child No.3 gets CPU time, Remaining:40, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 125, Child No.4 gets CPU time, Remaining:43, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 126, Child No.5 gets CPU time, Remaining:36, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 127, Child No.6 gets CPU time, Remaining:44, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 128, Child No.7 gets CPU time, Remaining:37, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 129, Child No.8 gets CPU time, Remaining:34, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 130, Child No.9 gets CPU time, Remaining:46, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 131, Child No.0 gets CPU time, Remaining:35, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 132, Child No.1 gets CPU time, Remaining:49, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 133, Child No.2 gets CPU time, Remaining:45, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 134, Child No.3 gets CPU time, Remaining:38, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 135, Child No.4 gets CPU time, Remaining:41, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 136, Child No.5 gets CPU time, Remaining:34, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 137, Child No.6 gets CPU time, Remaining:42, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 138, Child No.7 gets CPU time, Remaining:35, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 139, Child No.8 gets CPU time, Remaining:32, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 140, Child No.9 gets CPU time, Remaining:44, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 141, Child No.0 gets CPU time, Remaining:33, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 142, Child No.1 gets CPU time, Remaining:47, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 143, Child No.2 gets CPU time, Remaining:43, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 144, Child No.3 gets CPU time, Remaining:36, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 145, Child No.4 gets CPU time, Remaining:39, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 146, Child No.5 gets CPU time, Remaining:32, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 147, Child No.6 gets CPU time, Remaining:40, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 148, Child No.7 gets CPU time, Remaining:33, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 149, Child No.8 gets CPU time, Remaining:30, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 150, Child No.9 gets CPU time, Remaining:42, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 151, Child No.0 gets CPU time, Remaining:31, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 152, Child No.1 gets CPU time, Remaining:45, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 153, Child No.2 gets CPU time, Remaining:41, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 154, Child No.3 gets CPU time, Remaining:34, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 155, Child No.4 gets CPU time, Remaining:37, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 156, Child No.5 gets CPU time, Remaining:30, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 157, Child No.6 gets CPU time, Remaining:38, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 158, Child No.7 gets CPU time, Remaining:31, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 159, Child No.8 gets CPU time, Remaining:28, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 160, Child No.9 gets CPU time, Remaining:40, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 161, Child No.0 gets CPU time, Remaining:29, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 162, Child No.1 gets CPU time, Remaining:43, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 163, Child No.2 gets CPU time, Remaining:39, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 164, Child No.3 gets CPU time, Remaining:32, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 165, Child No.4 gets CPU time, Remaining:35, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 166, Child No.5 gets CPU time, Remaining:28, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 167, Child No.6 gets CPU time, Remaining:36, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 168, Child No.7 gets CPU time, Remaining:29, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 169, Child No.8 gets CPU time, Remaining:26, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 170, Child No.9 gets CPU time, Remaining:38, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 171, Child No.0 gets CPU time, Remaining:27, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 172, Child No.1 gets CPU time, Remaining:41, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 173, Child No.2 gets CPU time, Remaining:37, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 174, Child No.3 gets CPU time, Remaining:30, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 175, Child No.4 gets CPU time, Remaining:33, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 176, Child No.5 gets CPU time, Remaining:26, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 177, Child No.6 gets CPU time, Remaining:34, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 178, Child No.7 gets CPU time, Remaining:27, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 179, Child No.8 gets CPU time, Remaining:24, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 180, Child No.9 gets CPU time, Remaining:36, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 181, Child No.0 gets CPU time, Remaining:25, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 182, Child No.1 gets CPU time, Remaining:39, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 183, Child No.2 gets CPU time, Remaining:35, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 184, Child No.3 gets CPU time, Remaining:28, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 185, Child No.4 gets CPU time, Remaining:31, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 186, Child No.5 gets CPU time, Remaining:24, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 187, Child No.6 gets CPU time, Remaining:32, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 188, Child No.7 gets CPU time, Remaining:25, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 189, Child No.8 gets CPU time, Remaining:22, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 190, Child No.9 gets CPU time, Remaining:34, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 191, Child No.0 gets CPU time, Remaining:23, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 192, Child No.1 gets CPU time, Remaining:37, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 193, Child No.2 gets CPU time, Remaining:33, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 194, Child No.3 gets CPU time, Remaining:26, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 195, Child No.4 gets CPU time, Remaining:29, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 196, Child No.5 gets CPU time, Remaining:22, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 197, Child No.6 gets CPU time, Remaining:30, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 198, Child No.7 gets CPU time, Remaining:23, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 199, Child No.8 gets CPU time, Remaining:20, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 200, Child No.9 gets CPU time, Remaining:32, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 201, Child No.0 gets CPU time, Remaining:21, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 202, Child No.1 gets CPU time, Remaining:35, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 203, Child No.2 gets CPU time, Remaining:31, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 204, Child No.3 gets CPU time, Remaining:24, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 205, Child No.4 gets CPU time, Remaining:27, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 206, Child No.5 gets CPU time, Remaining:20, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 207, Child No.6 gets CPU time, Remaining:28, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 208, Child No.7 gets CPU time, Remaining:21, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 209, Child No.8 gets CPU time, Remaining:18, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 210, Child No.9 gets CPU time, Remaining:30, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 211, Child No.0 gets CPU time, Remaining:19, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 212, Child No.1 gets CPU time, Remaining:33, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 213, Child No.2 gets CPU time, Remaining:29, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 214, Child No.3 gets CPU time, Remaining:22, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 215, Child No.4 gets CPU time, Remaining:25, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 216, Child No.5 gets CPU time, Remaining:18, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 217, Child No.6 gets CPU time, Remaining:26, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 218, Child No.7 gets CPU time, Remaining:19, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 219, Child No.8 gets CPU time, Remaining:16, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 220, Child No.9 gets CPU time, Remaining:28, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 221, Child No.0 gets CPU time, Remaining:17, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 222, Child No.1 gets CPU time, Remaining:31, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 223, Child No.2 gets CPU time, Remaining:27, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 224, Child No.3 gets CPU time, Remaining:20, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 225, Child No.4 gets CPU time, Remaining:23, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 226, Child No.5 gets CPU time, Remaining:16, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 227, Child No.6 gets CPU time, Remaining:24, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 228, Child No.7 gets CPU time, Remaining:17, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 229, Child No.8 gets CPU time, Remaining:14, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 230, Child No.9 gets CPU time, Remaining:26, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 231, Child No.0 gets CPU time, Remaining:15, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 232, Child No.1 gets CPU time, Remaining:29, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 233, Child No.2 gets CPU time, Remaining:25, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 234, Child No.3 gets CPU time, Remaining:18, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 235, Child No.4 gets CPU time, Remaining:21, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 236, Child No.5 gets CPU time, Remaining:14, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 237, Child No.6 gets CPU time, Remaining:22, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 238, Child No.7 gets CPU time, Remaining:15, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 239, Child No.8 gets CPU time, Remaining:12, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 240, Child No.9 gets CPU time, Remaining:24, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 241, Child No.0 gets CPU time, Remaining:13, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 242, Child No.1 gets CPU time, Remaining:27, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 243, Child No.2 gets CPU time, Remaining:23, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 244, Child No.3 gets CPU time, Remaining:16, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 245, Child No.4 gets CPU time, Remaining:19, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 246, Child No.5 gets CPU time, Remaining:12, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 247, Child No.6 gets CPU time, Remaining:20, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 248, Child No.7 gets CPU time, Remaining:13, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 249, Child No.8 gets CPU time, Remaining:10, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 250, Child No.9 gets CPU time, Remaining:22, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 251, Child No.0 gets CPU time, Remaining:11, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 252, Child No.1 gets CPU time, Remaining:25, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 253, Child No.2 gets CPU time, Remaining:21, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 254, Child No.3 gets CPU time, Remaining:14, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 255, Child No.4 gets CPU time, Remaining:17, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 256, Child No.5 gets CPU time, Remaining:10, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 257, Child No.6 gets CPU time, Remaining:18, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 258, Child No.7 gets CPU time, Remaining:11, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 259, Child No.8 gets CPU time, Remaining:8, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 260, Child No.9 gets CPU time, Remaining:20, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 261, Child No.0 gets CPU time, Remaining:9, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 262, Child No.1 gets CPU time, Remaining:23, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 263, Child No.2 gets CPU time, Remaining:19, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 264, Child No.3 gets CPU time, Remaining:12, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 265, Child No.4 gets CPU time, Remaining:15, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 266, Child No.5 gets CPU time, Remaining:8, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 267, Child No.6 gets CPU time, Remaining:16, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 268, Child No.7 gets CPU time, Remaining:9, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 269, Child No.8 gets CPU time, Remaining:6, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 270, Child No.9 gets CPU time, Remaining:18, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 271, Child No.0 gets CPU time, Remaining:7, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 272, Child No.1 gets CPU time, Remaining:21, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 273, Child No.2 gets CPU time, Remaining:17, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 274, Child No.3 gets CPU time, Remaining:10, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 275, Child No.4 gets CPU time, Remaining:13, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 276, Child No.5 gets CPU time, Remaining:6, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 277, Child No.6 gets CPU time, Remaining:14, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 278, Child No.7 gets CPU time, Remaining:7, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 279, Child No.8 gets CPU time, Remaining:4, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 280, Child No.9 gets CPU time, Remaining:16, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 281, Child No.0 gets CPU time, Remaining:5, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 282, Child No.1 gets CPU time, Remaining:19, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 283, Child No.2 gets CPU time, Remaining:15, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 284, Child No.3 gets CPU time, Remaining:8, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 285, Child No.4 gets CPU time, Remaining:11, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 286, Child No.5 gets CPU time, Remaining:4, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 287, Child No.6 gets CPU time, Remaining:12, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 288, Child No.7 gets CPU time, Remaining:5, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 289, Child No.8 gets CPU time, Remaining:2, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 290, Child No.9 gets CPU time, Remaining:14, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 291, Child No.0 gets CPU time, Remaining:3, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 292, Child No.1 gets CPU time, Remaining:17, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 293, Child No.2 gets CPU time, Remaining:13, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 294, Child No.3 gets CPU time, Remaining:6, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 295, Child No.4 gets CPU time, Remaining:9, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 296, Child No.5 gets CPU time, Remaining:2, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 297, Child No.6 gets CPU time, Remaining:10, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 298, Child No.7 gets CPU time, Remaining:3, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 299, Child No.8 gets CPU time, Remaining:0, Run Queue: 9 0 1 2 3 4 5 6 7 8 IO Wait Queue: 
+Time: 300, Child No.9 gets CPU time, Remaining:12, Run Queue: 0 1 2 3 4 5 6 7 8 9 IO Wait Queue: 
+Time: 301, Child No.0 gets CPU time, Remaining:1, Run Queue: 1 2 3 4 5 6 7 8 9 0 IO Wait Queue: 
+Time: 302, Child No.1 gets CPU time, Remaining:15, Run Queue: 2 3 4 5 6 7 8 9 0 1 IO Wait Queue: 
+Time: 303, Child No.2 gets CPU time, Remaining:11, Run Queue: 3 4 5 6 7 8 9 0 1 2 IO Wait Queue: 
+Time: 304, Child No.3 gets CPU time, Remaining:4, Run Queue: 4 5 6 7 8 9 0 1 2 3 IO Wait Queue: 
+Time: 305, Child No.4 gets CPU time, Remaining:7, Run Queue: 5 6 7 8 9 0 1 2 3 4 IO Wait Queue: 
+Time: 306, Child No.5 gets CPU time, Remaining:0, Run Queue: 6 7 8 9 0 1 2 3 4 5 IO Wait Queue: 
+Time: 307, Child No.6 gets CPU time, Remaining:8, Run Queue: 7 8 9 0 1 2 3 4 5 6 IO Wait Queue: 
+Time: 308, Child No.7 gets CPU time, Remaining:1, Run Queue: 8 9 0 1 2 3 4 5 6 7 IO Wait Queue: 
+Time: 309, Child No.8 gets CPU time, Remaining:0, Run Queue: 9 0 1 2 3 4 5 6 7 IO Wait Queue: 8 
+Time: 310, Child No.9 gets CPU time, Remaining:10, Run Queue: 0 1 2 3 4 5 6 7 9 IO Wait Queue: 8 
+Time: 311, Child No.0 gets CPU time, Remaining:0, Run Queue: 1 2 3 4 5 6 7 9 0 IO Wait Queue: 
+Time: 312, Child No.1 gets CPU time, Remaining:13, Run Queue: 2 3 4 5 6 7 9 0 1 IO Wait Queue: 
+Time: 313, Child No.2 gets CPU time, Remaining:9, Run Queue: 3 4 5 6 7 9 0 1 2 IO Wait Queue: 
+Time: 314, Child No.3 gets CPU time, Remaining:2, Run Queue: 4 5 6 7 9 0 1 2 3 IO Wait Queue: 
+Time: 315, Child No.4 gets CPU time, Remaining:5, Run Queue: 5 6 7 9 0 1 2 3 4 IO Wait Queue: 
+Time: 316, Child No.5 gets CPU time, Remaining:0, Run Queue: 6 7 9 0 1 2 3 4 IO Wait Queue: 5 
+Time: 317, Child No.6 gets CPU time, Remaining:6, Run Queue: 7 9 0 1 2 3 4 6 IO Wait Queue: 5 
+Time: 318, Child No.7 gets CPU time, Remaining:0, Run Queue: 9 0 1 2 3 4 6 7 IO Wait Queue: 5 
+Time: 319, Child No.9 gets CPU time, Remaining:8, Run Queue: 0 1 2 3 4 6 7 9 IO Wait Queue: 
+Time: 320, Child No.0 gets CPU time, Remaining:0, Run Queue: 1 2 3 4 6 7 9 IO Wait Queue: 0 
+Time: 321, Child No.1 gets CPU time, Remaining:11, Run Queue: 2 3 4 6 7 9 1 IO Wait Queue: 0 
+Time: 322, Child No.2 gets CPU time, Remaining:7, Run Queue: 3 4 6 7 9 1 2 IO Wait Queue: 
+Time: 323, Child No.3 gets CPU time, Remaining:0, Run Queue: 4 6 7 9 1 2 3 IO Wait Queue: 
+Time: 324, Child No.4 gets CPU time, Remaining:3, Run Queue: 6 7 9 1 2 3 4 IO Wait Queue: 
+Time: 325, Child No.6 gets CPU time, Remaining:4, Run Queue: 7 9 1 2 3 4 6 IO Wait Queue: 
+Time: 326, Child No.7 gets CPU time, Remaining:0, Run Queue: 9 1 2 3 4 6 IO Wait Queue: 7 
+Time: 327, Child No.9 gets CPU time, Remaining:6, Run Queue: 1 2 3 4 6 9 IO Wait Queue: 7 
+Time: 328, Child No.1 gets CPU time, Remaining:9, Run Queue: 2 3 4 6 9 1 IO Wait Queue: 
+Time: 329, Child No.2 gets CPU time, Remaining:5, Run Queue: 3 4 6 9 1 2 IO Wait Queue: 
+Time: 330, Child No.3 gets CPU time, Remaining:0, Run Queue: 4 6 9 1 2 IO Wait Queue: 
+Time: 331, Child No.4 gets CPU time, Remaining:1, Run Queue: 6 9 1 2 4 IO Wait Queue: 
+Time: 332, Child No.6 gets CPU time, Remaining:2, Run Queue: 9 1 2 4 6 IO Wait Queue: 
+Time: 333, Child No.9 gets CPU time, Remaining:4, Run Queue: 1 2 4 6 9 IO Wait Queue: 
+Time: 334, Child No.1 gets CPU time, Remaining:7, Run Queue: 2 4 6 9 1 IO Wait Queue: 
+Time: 335, Child No.2 gets CPU time, Remaining:3, Run Queue: 4 6 9 1 2 IO Wait Queue: 
+Time: 336, Child No.4 gets CPU time, Remaining:0, Run Queue: 6 9 1 2 4 IO Wait Queue: 
+Time: 337, Child No.6 gets CPU time, Remaining:0, Run Queue: 9 1 2 4 6 IO Wait Queue: 
+Time: 338, Child No.9 gets CPU time, Remaining:2, Run Queue: 1 2 4 6 9 IO Wait Queue: 
+Time: 339, Child No.1 gets CPU time, Remaining:5, Run Queue: 2 4 6 9 1 IO Wait Queue: 
+Time: 340, Child No.2 gets CPU time, Remaining:1, Run Queue: 4 6 9 1 2 IO Wait Queue: 
+Time: 341, Child No.4 gets CPU time, Remaining:0, Run Queue: 6 9 1 2 IO Wait Queue: 
+Time: 342, Child No.6 gets CPU time, Remaining:0, Run Queue: 9 1 2 IO Wait Queue: 6 
+Time: 343, Child No.9 gets CPU time, Remaining:0, Run Queue: 1 2 9 IO Wait Queue: 6 
+Time: 344, Child No.1 gets CPU time, Remaining:3, Run Queue: 2 9 1 IO Wait Queue: 6 
+Time: 345, Child No.2 gets CPU time, Remaining:0, Run Queue: 9 1 2 IO Wait Queue: 6 
+Time: 346, Child No.9 gets CPU time, Remaining:0, Run Queue: 1 2 IO Wait Queue: 9 
+Time: 347, Child No.1 gets CPU time, Remaining:1, Run Queue: 2 1 IO Wait Queue: 9 
+Time: 348, Child No.2 gets CPU time, Remaining:0, Run Queue: 1 IO Wait Queue: 2 9 
+Time: 349, Child No.1 gets CPU time, Remaining:0, Run Queue: 1 IO Wait Queue: 9 2 
+Time: 350, Child No.1 gets CPU time, Remaining:0, Run Queue: IO Wait Queue: 2 1 
+Time: 351, IO Wait Queue: 1 2 
+Time: 352, IO Wait Queue: 2 1 
+Time: 353, IO Wait Queue: 1 
+Time: 354, IO Wait Queue: 1 
+Time: 355, IO Wait Queue: 
